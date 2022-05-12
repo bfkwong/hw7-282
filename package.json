@@ -1,0 +1,11 @@
+{
+  "name": "hw7-282",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bfkwong/hw7-282.git",
+  "author": "Bryan Kwong <bryank458@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.1133.0"
+  }
+}
